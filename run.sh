@@ -1,1 +1,1 @@
-echo "build trigger"
+echo "build triggered"
